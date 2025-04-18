@@ -1,0 +1,2 @@
+# nanodet_ncnn
+基于ncnn框架部署nanodet模型，可以用于实时性较高且性能较差的硬件上的目标检测。
